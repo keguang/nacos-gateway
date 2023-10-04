@@ -1,7 +1,7 @@
 # nacos-gateway
 nacos gateway
 
-# 搭建一个单节点springcloud gateway网关，可以自动发现nacos注册中心的服务，并配置一个路由规则，可以通过http://localhost:8081/helloword 访问该服务
+### 搭建一个单节点springcloud gateway网关，可以自动发现nacos注册中心的服务，并配置一个路由规则，可以通过http://localhost:8081/helloword 访问该服务
 前置条件：需要配合nacos-study一起使用
 
 
